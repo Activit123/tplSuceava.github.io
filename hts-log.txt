@@ -1,0 +1,57 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 14 May 2022 20:53:37 at http://localhost/wordpress/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/wordpress/ -O1 "C:\My Web Sites\tplSuceava" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:58:53	Warning: 	Found for localhost/wordpress/login/
+20:58:53	Warning: 	File has moved from localhost/wordpress/login/ to http://localhost/wordpress/wp-login.php
+21:00:38	Warning: 	Moved Permanently for localhost/wordpress/?p=102
+21:00:38	Warning: 	File has moved from localhost/wordpress/?p=102 to http://localhost/wordpress/galerie-foto/
+21:00:38	Error: 	"Not Found" (404) at link localhost/wordpress/galerie-foto/%22https:/static.colibriwp.com/assets/sources/colibri-demo-video-cover.jpg (from localhost/wordpress/galerie-foto/)
+21:00:38	Warning: 	Moved Permanently for localhost/wordpress/?p=113
+21:00:38	Warning: 	File has moved from localhost/wordpress/?p=113 to http://localhost/wordpress/bilete-abonamente/
+21:00:38	Error: 	"Not Found" (404) at link localhost/wordpress/bilete-abonamente/%22https:/static.colibriwp.com/assets/sources/colibri-demo-video-cover.jpg (from localhost/wordpress/bilete-abonamente/)
+21:00:38	Warning: 	Moved Permanently for localhost/wordpress/?p=170
+21:00:38	Warning: 	File has moved from localhost/wordpress/?p=170 to http://localhost/wordpress/conducere/
+21:00:38	Error: 	"Not Found" (404) at link localhost/wordpress/conducere/%22https:/static.colibriwp.com/assets/sources/colibri-demo-video-cover.jpg (from localhost/wordpress/conducere/)
+21:01:23	Warning: 	Moved Permanently for localhost/wordpress/?p=228
+21:01:23	Warning: 	File has moved from localhost/wordpress/?p=228 to http://localhost/wordpress/norme-si-sanctiuni/
+21:01:23	Error: 	"Not Found" (404) at link localhost/wordpress/norme-si-sanctiuni/%22https:/static.colibriwp.com/assets/sources/colibri-demo-video-cover.jpg (from localhost/wordpress/norme-si-sanctiuni/)
+21:01:24	Warning: 	Moved Permanently for localhost/wordpress/?p=386
+21:01:24	Warning: 	File has moved from localhost/wordpress/?p=386 to http://localhost/wordpress/recomandari-pentru-calatori/
+21:01:24	Error: 	"Not Found" (404) at link localhost/wordpress/recomandari-pentru-calatori/%22https:/static.colibriwp.com/assets/sources/colibri-demo-video-cover.jpg (from localhost/wordpress/recomandari-pentru-calatori/)
+21:01:24	Warning: 	Moved Permanently for localhost/wordpress/?p=412
+21:01:24	Warning: 	File has moved from localhost/wordpress/?p=412 to http://localhost/wordpress/opinii/
+21:01:24	Error: 	"Not Found" (404) at link localhost/wordpress/opinii/%22https:/static.colibriwp.com/assets/sources/colibri-demo-video-cover.jpg (from localhost/wordpress/opinii/)
+21:01:24	Warning: 	Moved Permanently for localhost/wordpress/?p=289
+21:01:24	Warning: 	File has moved from localhost/wordpress/?p=289 to http://localhost/wordpress/trasee/
+21:01:24	Error: 	"Not Found" (404) at link localhost/wordpress/trasee/%22https:/static.colibriwp.com/assets/sources/colibri-demo-video-cover.jpg (from localhost/wordpress/trasee/)
+21:01:24	Error: 	"Not Found" (404) at link localhost/images/outline_format_list_bulleted_black_18dp.png (from localhost/wordpress/trasee/)
+21:01:25	Error: 	"Not Found" (404) at link localhost/images/outline_map_black_18dp.png (from localhost/wordpress/trasee/)
+21:01:47	Warning: 	Moved Permanently for localhost/wordpress/?p=392
+21:01:47	Warning: 	File has moved from localhost/wordpress/?p=392 to http://localhost/wordpress/despre-noi/
+21:01:47	Error: 	"Not Found" (404) at link localhost/wordpress/despre-noi/%22https:/static.colibriwp.com/assets/sources/colibri-demo-video-cover.jpg (from localhost/wordpress/despre-noi/)
+21:01:48	Warning: 	Moved Permanently for localhost/wordpress/?p=398
+21:01:48	Warning: 	File has moved from localhost/wordpress/?p=398 to http://localhost/wordpress/contact/
+21:01:48	Error: 	"Not Found" (404) at link localhost/wordpress/contact/%22https:/static.colibriwp.com/assets/sources/colibri-demo-video-cover.jpg (from localhost/wordpress/contact/)
+21:01:48	Warning: 	Moved Permanently for localhost/wordpress/?p=426
+21:01:48	Warning: 	File has moved from localhost/wordpress/?p=426 to http://localhost/wordpress/noutati/
+21:01:48	Error: 	"Not Found" (404) at link localhost/wordpress/noutati/%22https:/static.colibriwp.com/assets/sources/colibri-demo-video-cover.jpg (from localhost/wordpress/noutati/)
+21:01:54	Warning: 	Moved Permanently for localhost/wordpress/?p=431
+21:01:54	Warning: 	File has moved from localhost/wordpress/?p=431 to http://localhost/wordpress/2022/05/14/program-de-circulatie-sarbatori-pascale/
+21:01:54	Error: 	"Not Found" (404) at link localhost/wordpress/2022/05/14/program-de-circulatie-sarbatori-pascale/%22https:/static.colibriwp.com/assets/sources/colibri-demo-video-cover.jpg (from localhost/wordpress/2022/05/14/program-de-circulatie-sarbatori-pascale/)
+21:02:13	Warning: 	Moved Permanently for localhost/wordpress/?p=98
+21:02:13	Warning: 	File has moved from localhost/wordpress/?p=98 to http://localhost/wordpress/2022/03/23/informare-eliberare-abonamente-elevi/
+21:02:13	Error: 	"Not Found" (404) at link localhost/wordpress/2022/03/23/informare-eliberare-abonamente-elevi/%22https:/static.colibriwp.com/assets/sources/colibri-demo-video-cover.jpg (from localhost/wordpress/2022/03/23/informare-eliberare-abonamente-elevi/)
+21:02:14	Warning: 	Moved Permanently for localhost/wordpress/?p=95
+21:02:14	Warning: 	File has moved from localhost/wordpress/?p=95 to http://localhost/wordpress/2022/03/23/in-antentia-publicului-calator/
+21:02:14	Error: 	"Not Found" (404) at link localhost/wordpress/2022/03/23/in-antentia-publicului-calator/%22https:/static.colibriwp.com/assets/sources/colibri-demo-video-cover.jpg (from localhost/wordpress/2022/03/23/in-antentia-publicului-calator/)
+21:02:18	Error: 	"Not Found" (404) at link localhost/wordpress/wp-content/uploads/img/bg.jpg (from localhost/wordpress/wp-content/uploads/essential-addons-elementor/734e5f942.min.css?ver=1652550904)
+21:02:31	Error: 	"Not Found" (404) at link localhost/wordpress/category/uncategorized/%22https:/static.colibriwp.com/assets/sources/colibri-demo-video-cover.jpg (from localhost/wordpress/category/uncategorized/)
+21:02:41	Error: 	"Not Found" (404) at link localhost/wordpress/author/ateam/%22https:/static.colibriwp.com/assets/sources/colibri-demo-video-cover.jpg (from localhost/wordpress/author/ateam/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 minutes 11 seconds : 332 links scanned, 299 files written (38540840 bytes overall) [17827674 bytes received at 32355 bytes/sec], 28469091 bytes transferred using HTTP compression in 169 files, ratio 19%, 3.4 requests per connection
+(18 errors, 28 warnings, 0 messages)
